@@ -1,3 +1,7 @@
+# Bear in mind
+
+You are going to need this [endpoint](https://github.com/z4cope/e-commerce-endpoint) in order to run the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
