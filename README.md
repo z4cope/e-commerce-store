@@ -2,6 +2,8 @@
 
 You are going to need this [endpoint](https://github.com/z4cope/e-commerce-endpoint) in order to run the project.
 
+The frontend part is basically running on a local host port `http://localhost:4000/` which is provided by this endpoint, you will need to start it first because the products are being fetched through it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
